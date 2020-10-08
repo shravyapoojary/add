@@ -5,7 +5,7 @@ public class CountWords
    public static void main(String[] args)
    {
       String input="Welcome to Java Session Session Session";  //Input String 
-      String[] words=input.split(" ");  //Split the word from String
+      String[] words=input.split(" ")sdfgh;  //Split the word from String
       int wrc=1;    //Variable for getting Repeated word count
       
       for(int i=0;i<words.length;i++) //Outer loop for Comparison       
